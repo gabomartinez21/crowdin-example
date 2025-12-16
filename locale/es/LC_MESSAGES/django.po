@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: poc-besage\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-16 17:25+0000\n"
-"PO-Revision-Date: 2025-12-16 17:32\n"
+"PO-Revision-Date: 2025-12-16 18:45\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Venezuela\n"
 "Language: es_VE\n"
@@ -19,5 +19,5 @@ msgstr ""
 
 #: core/views.py:8
 msgid "Hello from Django + Crowdin"
-msgstr ""
+msgstr "Hola desde Django"
 
